@@ -17,7 +17,7 @@ module.exports = async ({ from, to, subject, text, html }) => {
   transporter
     .sendMail({
       to: to,
-      from: 'easysend <rsayan553@gmail.com>',
+      from: 'easysend <maildeveloper9@gmail.com>',
       subject: subject,
       text: text,
       html: html,
