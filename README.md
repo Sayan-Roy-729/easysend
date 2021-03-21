@@ -1,7 +1,7 @@
 # easysend (Share file easily)
 
 ## Project Demo
-![Project Demo]()
+![Project Demo](https://github.com/Sayan-Roy-729/easysend-frontend/blob/main/easysend.gif)
 
 ## For frontent code, click [here](https://github.com/Sayan-Roy-729/easysend-frontend). This backend is hosted in heroku.
 
