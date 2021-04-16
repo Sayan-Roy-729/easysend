@@ -6,7 +6,8 @@ const path = require('path');
 const cors = require('cors');
 // Cors
 const corsOptions = {
-  origin: process.env.ALLOWED_CLIENTS.split(','),
+//   origin: process.env.ALLOWED_CLIENTS.split(','),
+  origin: "*",
 };
 
 // Default configuration looks like
